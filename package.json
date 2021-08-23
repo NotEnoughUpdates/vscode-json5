@@ -1,13 +1,13 @@
 {
-    "name": "vscode-json5",
-    "displayName": "JSON5 syntax",
-    "description": "Adds syntax highlighting of JSON5 files",
-    "version": "1.0.0",
-    "publisher": "mrmlnc",
-    "license": "MIT",
-    "engines": {
-      "vscode": "^1.3.0"
-    },
+  "name": "vscode-json5",
+  "displayName": "JSON5 syntax",
+  "description": "Adds syntax highlighting of JSON5 files",
+  "version": "1.0.1",
+  "publisher": "mrmlnc",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.3.0"
+  },
   "icon": "icon.png",
   "homepage": "https://github.com/mrmlnc/vscode-json5/blob/master/README.md",
   "repository": {

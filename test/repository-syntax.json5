@@ -1,8 +1,8 @@
 {
-    foo: 'bar',
+    foo/* comment */: /* comment */'bar',
     while: true,
 
-    this: 'is a \
+    "this": 'is a \
 multi-line string',
 
     // this is an inline comment
@@ -16,9 +16,9 @@ multi-line string',
     delta: +10,
     to: Infinity,   // and beyond!
 
-    finally: 'a trailing comma',
-    oh: [
-        "we shouldn't forget",
+    'finally': 'a trailing comma',
+    oh: [ //comment here
+       /* another comment here */ "we shouldn't forget" /* and here */,
         'arrays can have',
         'trailing commas too',
     ],
